@@ -39,7 +39,7 @@ papers:
     selected: y
 
   - title: "Unlocking the Potential of Federated Learning: The Symphony of Dataset Distillation via Deep Generative Latents"
-    authors: "<b>Yuqi Jia<sup>‡</sup></b>, Sajad Vahidian<sup>‡</sup>, Jingwei Sun, Jianyi Zhang, Vyacheslav Kungurtsev, Neil Gong, Yiran Chen"
+    authors: "<b>Yuqi Jia<sup>‡</sup></b>, Saeed Vahidian<sup>‡</sup>, Jingwei Sun, Jianyi Zhang, Vyacheslav Kungurtsev, Neil Gong, Yiran Chen"
     venue: "ECCV'24"
     paper_pdf: "https://arxiv.org/abs/2312.01537"
     code: "https://github.com/jyqhahah/FedDGM"

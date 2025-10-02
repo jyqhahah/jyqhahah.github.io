@@ -1,5 +1,10 @@
 papers:
 
+  - title: "PromptLocate: Localizing Prompt Injection Attacks"
+    authors: "<b>Yuqi Jia</b>, Yupei Liu, Zedian Shao, Jinyuan Jia, Neil Gong"
+    venue: "IEEE S&P'26"
+    selected: y
+
   - title: "Competitive Advantage Attacks to Decentralized Federated Learning"
     authors: "<b>Yuqi Jia</b>, Minghong Fang, Neil Gong"
     venue: "NeurIPS'25"
@@ -10,11 +15,6 @@ papers:
     authors: "<b>Yuqi Jia</b>, Minghong Fang, Hongbin Liu, Jinghuai Zhang, Neil Gong"
     venue: "NeurIPS'25"
     paper_pdf: "https://arxiv.org/abs/2407.07221"
-    selected: y
-
-  - title: "PromptLocate: Localizing Prompt Injection Attacks"
-    authors: "<b>Yuqi Jia</b>, Yupei Liu, Zedian Shao, Jinyuan Jia, Neil Gong"
-    venue: "IEEE S&P'26"
     selected: y
 
   - title: "DataSentinel: A Game-Theoretic Detection of Prompt Injection Attacks"

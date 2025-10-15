@@ -3,6 +3,8 @@ papers:
   - title: "PromptLocate: Localizing Prompt Injection Attacks"
     authors: "<b>Yuqi Jia</b>, Yupei Liu, Zedian Shao, Jinyuan Jia, Neil Gong"
     venue: "IEEE S&P'26"
+    paper_pdf: "https://arxiv.org/abs/2510.12252"
+    code: "https://github.com/liu00222/Open-Prompt-Injection"
     selected: y
 
   - title: "Competitive Advantage Attacks to Decentralized Federated Learning"

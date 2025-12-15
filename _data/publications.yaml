@@ -3,6 +3,7 @@ papers:
   - title: "ObliInjection: Order-Oblivious Prompt Injection Attack to LLM Agents with Multi-source Data"
     authors: "Ruiqi Wang, <b>Yuqi Jia</b>, Neil Gong"
     venue: "NDSS'26"
+    paper_pdf: "https://arxiv.org/abs/2512.09321"
     selected: y
 
   - title: "PromptLocate: Localizing Prompt Injection Attacks"

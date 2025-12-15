@@ -1,5 +1,10 @@
 papers:
 
+  - title: "ObliInjection: Order-Oblivious Prompt Injection Attack to LLM Agents with Multi-source Data"
+    authors: "Ruiqi Wang, <b>Yuqi Jia</b>, Neil Gong"
+    venue: "NDSS'26"
+    selected: y
+
   - title: "PromptLocate: Localizing Prompt Injection Attacks"
     authors: "<b>Yuqi Jia</b>, Yupei Liu, Zedian Shao, Jinyuan Jia, Neil Gong"
     venue: "IEEE S&P'26"

@@ -98,6 +98,10 @@ title: Home
               <a class="button" href="{{ paper.video }}" target="_blank">Video</a>
             {% endif %}
 
+            {% if paper.project %}
+              <a class="button" href="{{ paper.project }}" target="_blank" rel="noopener">Project</a>
+            {% endif %}
+
             {% if paper.code %}
               <a class="button" href="{{ paper.code }}" target="_blank">Code</a>
             {% endif %}
@@ -132,6 +136,10 @@ title: Home
 
             {% if paper.video %}
               <a class="button" href="{{ paper.video }}" target="_blank">Video</a>
+            {% endif %}
+
+            {% if paper.project %}
+              <a class="button" href="{{ paper.project }}" target="_blank" rel="noopener">Project</a>
             {% endif %}
 
             {% if paper.code %}

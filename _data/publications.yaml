@@ -1,5 +1,12 @@
 papers:
 
+  - title: "Axion 1.0: Open Agent Foundation Models, Simplified"
+    authors: "<b>Yuqi Jia</b>, Yunjie Tian, Jiayu Zheng, Yijun Liang, Jingchen Sun, Mengyu Zhao, Di Fu"
+    venue: "Preprint, 2026"
+    paper_pdf: "https://axion1-0.github.io/paper/axion.pdf"
+    project: "https://axion1-0.github.io/"
+    selected: y
+
   - title: "ObliInjection: Order-Oblivious Prompt Injection Attack to LLM Agents with Multi-source Data"
     authors: "Ruiqi Wang, <b>Yuqi Jia</b>, Neil Gong"
     venue: "NDSS'26"
